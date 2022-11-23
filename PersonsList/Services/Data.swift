@@ -11,9 +11,7 @@ class DataStore {
     
     static let shared = DataStore()
         
-    // test123
-    // one more test
-    // whats gonan happen
+   
     private init() {}
     
     var allFirstNames = [
